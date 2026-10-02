@@ -1,0 +1,2 @@
+importscript 
+"hello.js"
